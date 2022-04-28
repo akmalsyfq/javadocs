@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"App"},{"p":"my.uum","l":"chineseStudent"},{"p":"my.uum","l":"indianStudent"},{"p":"my.uum","l":"ListSupervisor"},{"p":"my.uum","l":"MalayStudent"},{"p":"my.uum","l":"studentSupervisor"},{"p":"my.uum","l":"totalStudent"}];updateSearchResults();
